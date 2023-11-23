@@ -18,7 +18,9 @@
 
 ## 링크
 
-> https://sbb.pybo.kr/question/list
+> [호스팅 링크](http://54.180.205.236:8080)
+
+> [레퍼런스 링크](https://sbb.pybo.kr)
 
 ## 스크린 샷
 
